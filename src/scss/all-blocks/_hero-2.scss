@@ -1,0 +1,39 @@
+// ======HERO======
+.hero-box {
+    background-image: url(../../../src/assets/svg/Bitmap.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-bottom: 100px;
+
+    .hero-box-2 {
+        width: 445px;
+        height: 357px;
+        flex-shrink: 0;
+        background: #FAFAFA;
+    }
+
+    h1 {
+        width: 390px;
+        color: #33323D;
+        font-size: 50px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 50px;
+        letter-spacing: -0.446px;
+        margin-bottom: 53px;
+    }
+
+    button {
+        padding: 17px 41px;
+        color: #FFF;
+        text-align: center;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        background: #203A4C;
+    }
+}
+// ======HERO END======

@@ -1,0 +1,40 @@
+// ======INFO======
+.info-2 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+
+    .info-box {
+        hr {
+            opacity: 0.15;
+            background: #33323D;
+        }
+
+        h3 {
+            color: #33323D;
+            font-family: Ibarra Real Nova;
+            font-size: 40px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 42px;
+            letter-spacing: -0.357px;
+            margin-bottom: 28px;
+        }
+
+        p {
+            width: 350px;
+            color: #33323D;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 30px;
+            margin-bottom: 24px;
+        }
+
+        button {
+            padding: 17px 33px;
+            margin-bottom: 46px;
+        }
+    }
+}
+// ======INFO END======

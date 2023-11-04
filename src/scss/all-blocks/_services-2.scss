@@ -1,0 +1,31 @@
+// ======SERVICES======
+.services {
+    .services-box {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 150px;
+
+        h2 {
+            width: 399px;
+            color: #33323D;
+            font-size: 40px;
+            font-family: Ibarra Real Nova;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 42px;
+            letter-spacing: -0.357px;
+        }
+
+        .services-line {
+            width: 534px;
+            height: 1px;
+            opacity: 0.15;
+            background: #33323D;
+        }
+        button{
+            padding: 17px 32px;
+        }
+    }
+}
+// ======SERVICES END======
